@@ -1,4 +1,4 @@
-#truncatingRemainder(dividingBy:) 메서드
+# truncatingRemainder(dividingBy:) 메서드
 
 계산기를 만들다 알게 된 truncatingRemainder(dividingBy:) 메서드를 알아보고자 한다.
 
